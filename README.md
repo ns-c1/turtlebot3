@@ -23,6 +23,7 @@ to open turtlebot3_slam and see the scan place.
 ![turtlebot3_slam](https://github.com/ns-c1/turtlebot3/assets/139014871/6a0b2fbd-50fb-4953-832e-c4cfa8236394)
 ## Control tool
 Robot control tool.
+The movement of the robot is controlled via the keyboard using the letters W A S D X
 ![turtlebot3_teleop_kay](https://github.com/ns-c1/turtlebot3/assets/139014871/9288c212-4162-44bf-af66-b7f7b68d89d6)
 ## Scan result
 The final map of the csan process area.
